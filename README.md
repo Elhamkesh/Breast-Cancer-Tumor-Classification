@@ -4,7 +4,10 @@ Built a convolutional neural network to classify the malignant or benign tumor a
 
 ## Summery
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Cancer is massive public health problem around the world. According to the International Agency for Research on Cancer (IARC) 27 million of new cases are expected to occur until 2030. Among the cancer types, breast cancer is second most common for women, excluding skin cancer.
+
+Despite significant progress reached by diagnostic imaging technologies, the final breast cancer diagnosis, including grading and staging, continues being done by pathologists applying visual inspection of histological samples under the microscope. Recent advances in image processing and machine learning techniques allow to build CAD systems that assist pathologists to be more productive, objective and consistent in diagnosis. The main challenge of such system in dealing with inherent complexity of histopathological images. In this effort, I try to create a model using convolutional neural network (CNN) to improve on existing model.
+
 
 ## Data
 
