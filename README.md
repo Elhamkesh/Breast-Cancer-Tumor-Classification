@@ -22,7 +22,7 @@ The dataset currently contains four histological distinct types of benign breast
 
 ## Built With
 
-The models run and test on p2-xlarge nodes from [AWS Amazoan](https://aws.amazon.com/). 
+The models run and test on p2-xlarge nodes from [AWS Amazon](https://aws.amazon.com/). 
 
 I use [Keras](https://keras.io/) API for this project. 
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. 
